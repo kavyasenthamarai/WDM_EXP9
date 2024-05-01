@@ -1,6 +1,6 @@
 # EX9 Preprocessing on Twitter Data using Rapidminer
-### Name       : Kaushika A
-### Reg Number : 212221230048
+### Name       : KAVYA K
+### Reg Number : 212222230065
 ### Date       : 13.04.2024 
 ## AIM: 
 To implement preprocessing technique on Twitter Data using Rapidminer
@@ -28,13 +28,10 @@ operators for preprocessing:
 for this purpose.
 
 ### Output:
-![](1.png)
-
-![](2.png)
-
-![](3.png)
-
-![](4.png)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/76c9b1e0-9825-4116-abef-10f39530306b)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/67a21930-9bb3-4849-859f-1302e40facaf)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/b8646ece-bf29-461e-82dc-6edb828aaec6)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/c55a3dd3-6ac4-4f9b-a2ec-02ee35c7695a)
 
 ### Result:
 Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
